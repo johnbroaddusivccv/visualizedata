@@ -57,4 +57,4 @@ bash the following to see what Bokeh does:
 ```bash
 python main.py
 ```
-It creates a graph using the data in the CSV file [cars.csv](https://github.com/johnbroaddusivccv/visualizedata/blob/master/cars.csv)
+It creates a graph using the data in the CSV file [cars.csv](https://github.com/johnbroaddusivccv/visualizedata/blob/master/cars.csv) in the browser it generated both HTML and JavaScript for us.
