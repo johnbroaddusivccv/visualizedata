@@ -19,7 +19,7 @@ python ––version
 ```
 When using python it's important to create a virtual enviroment. A virtual enviroment is a tool that helps keep dependencies required by different projects separate by isolation.
 - - -
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install [Bokeh](https://docs.bokeh.org/en/latest/index.html).
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install [Bokeh](https://docs.bokeh.org/en/latest/index.html) and [Pandas](https://pandas.pydata.org/).
 - - -
 To create a virtual enviroment bash the following:
 * on windows 10
@@ -46,11 +46,11 @@ deactivate
 Using [pip](https://pip.pypa.io/en/stable/) we are going to install [Bokeh](https://docs.bokeh.org/en/latest/index.html).
 * On windows 10
 ```bash
-py -m pip install bokeh
+py -m pip install bokeh pandas
 ```
 * On Mac
 ```bash
-pip install bokeh
+pip install bokeh pandas
 ```
 - - - - 
 bash the following to see what Bokeh does:
